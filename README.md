@@ -1,2 +1,1 @@
-# git_test
-Practicing Git 
+This is Faisal Shaikh First Git Project!
